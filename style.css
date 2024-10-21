@@ -1,0 +1,34 @@
+#id-nav-bar{
+    background-color: white ;
+    border-radius: .5rem;
+}
+#id-body{
+    background-color: #f0eeee;
+    height: 100%;
+    overflow-x: hidden;
+}
+#id-sidebar{
+    background-color: #232333;
+    border-radius: .5rem;
+    padding-top: 1rem;
+    
+}
+#id-progressbars{
+    background-color: white ;
+    padding: 1rem;
+    border-radius: .5rem;
+}
+.firstRow{
+    border-radius: .5rem;
+}
+.firstRow:hover{
+    box-shadow: 0 12px 18px rgba(0, 0, 0, 0.1);
+}
+#id-form-layout{
+    background-color: white;
+    border-radius: .5rem;
+    padding: 2rem
+}
+.carousel-inner{
+    border-radius: .5rem;
+}
